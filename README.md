@@ -1,4 +1,4 @@
-# Bank-Loan-Projcts
+# Bank-Loan-Projct BY PowerBI & SQL
 
 ## Project Summary
 The Bank Loan Analysis Dashboard is designed to monitor and evaluate the loan portfolio of a bank. It integrates SQL for data extraction and transformation and Power BI for visualization to provide insights into loan disbursements, repayments, overdue accounts, and default risks.
